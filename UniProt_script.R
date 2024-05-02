@@ -17,7 +17,7 @@
 #+ stored for each file.                                                  +
 #+                                                                        +
 #+ The files must have the format:                                        +
-#+  - INFORMATION: Must have a # at the start of each line,               +
+#+  - INFORMATION: Must have a # at the start of each header line,        +
 #+  - GENES: Must be named in gene symbols and separated by "\n".         +
 #+           Modifications to the code could be made to work with other   +
 #+           annotations.                                                 +
